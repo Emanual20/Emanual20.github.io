@@ -15,13 +15,17 @@ My research interests lie in the pretraining of Large Language Models (LLMs) and
 Publications
 ======
 
+* YuLan-Chat：基于多阶段课程学习的大语言模型. \
+Kun Zhou, Yutao Zhu, Zhipeng Chen, Kelong Mao, Wentong Chen, Yushuo Chen, **Yiding Sun**, Qian Cao, Lei Wang, Lei Zhang, Xincheng Pang, Shufang Xie, Xin Zhao\*, Zhicheng Dou\*, Yankai Lin, Jiaxin Mao, Ruihua Song, Xu Chen, Jun Xu, Di Hu, Rui Yan, Wenbing Huang, Zhewei Wei, Jirong Wen\*. \
+**计算机学报**. [[Paper](https://kns.cnki.net/kcms2/article/abstract?v=gpYlZH45TFnKWeB9Jc2TCXqboIvV8ZP8zlMA8ZBAGd04eJoBhOLmyMU892yLtWMk7HkPJjdIU5dPIji0eXElMN8cVsQ0ZMVnnxuFWlDdU8yPpafOxXCA6PEVyIbWdBhJ56WQk7KK_zzcyHiJu4rF3lqkoC5GCl8__DcI88IF_Ci3mi7Was7CIWJjXWu9rI3XrQ5QGRQsw0pRGmvFtGIOWg==&uniplatform=NZKPT)]
+
 * BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline. \
 Guosheng Dong\*, Da Pan, **Yiding Sun**, Shusen Zhang, Zheng Liang, Xin Wu, Yanjun Shen, Fan Yang, Haoze Sun, Tianpeng Li, Mingan Lin, Jianhua Xu, Yufan Zhang, Xiaonan Nie, Lei Su, Bingning Wang, Wentao Zhang, Jiaxin Mao, Zenan Zhou\*, Weipeng Chen. \
-**ArXiv Preprint**. [[paper](https://arxiv.org/abs/2408.15079)]
+**ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2408.15079)]
 
 * Aligning Explanations for Recommendation with Rating and Feature via Maximizing Mutual Information. \
 Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Lu Guan, Xiang Li, Wei Lin, Jiaxin Mao. \
-The 33rd ACM International Conference on Information and Knowledge Management. **(CIKM 2024)** [[paper](https://arxiv.org/abs/2407.13274)] 
+The 33rd ACM International Conference on Information and Knowledge Management. **(CIKM 2024)** [[Paper](https://dl.acm.org/doi/10.1145/3627673.3679663)] 
 
 * An Integrated Data Processing Framework for Pretraining Foundation Models. \
 **Yiding Sun\***, Feng Wang\*, Yutao Zhu, Wayne Xin Zhao, Jiaxin Mao. (\* Equal contribution) \
@@ -29,18 +33,18 @@ The 47th International ACM SIGIR Conference on Research and Development in Infor
 
 * YuLan: An Open-source Large Language Model. \
 Yutao Zhu, Kun Zhou, Kelong Mao, Wentong Chen, **Yiding Sun**, Zhipeng Chen, Qian Cao, Yihan Wu, Yushuo Chen, Feng Wang, Lei Zhang, Junyi Li, Xiaolei Wang, Lei Wang, Beichen Zhang, Zican Dong, Xiaoxue Cheng, Yuhan Chen, Xinyu Tang, Yupeng Hou, Qiangqiang Ren, Xincheng Pang, Shufang Xie, Wayne Xin Zhao, Zhicheng Dou, Jiaxin Mao, Yankai Lin, Ruihua Song, Jun Xu, Xu Chen, Rui Yan, Zhewei Wei, Di Hu, Wenbing Huang, Ze-Feng Gao, Yueguo Chen, Weizheng Lu, Ji-Rong Wen. \
-**ArXiv Preprint**. [[paper](https://arxiv.org/abs/2406.19853)]
+**ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2406.19853)]
 
 
 * Investigating Users' Preferences for Explanation Tags on Online Delivery Platform. \
 **Yiding Sun**, Yurou Zhao, Ruidong Han, Fei Jiang, Lu Guan, Xiang Li, Wei Lin and Jiaxin Mao. \
 1st Workshop on Measuring the Quality of Explanations 
-in Recommender Systems. **(QUARE@SIGIR 2022)**. 
+in Recommender Systems. **([QUARE](https://sites.google.com/view/quare-2022/accepted-papers)@SIGIR 2022)**. 
 
 * Evaluating the Explanation Tags of Online Food Delivery Recommendation: A Position Paper. \
 Yurou Zhao, Ruidong Han, Fei Jiang, Lu Guan, Xiang Li, Wei Lin, **Yiding Sun** and Jiaxin Mao. \
 1st Workshop on Measuring the Quality of Explanations 
-in Recommender Systems. **(QUARE@SIGIR 2022)**. 
+in Recommender Systems. **([QUARE](https://sites.google.com/view/quare-2022/accepted-papers)@SIGIR 2022)**. 
 
 Education
 ======
@@ -52,10 +56,7 @@ News
 ======
 
 * ***2024.8.28***, Our [Technical Report](https://arxiv.org/abs/2408.15079) of BaichuanSEED has been released on ArXiv.
-* ***2024.7.17***, I will present two posters on SIGIR2024 onsite at Capital Hilton in D.C. .
 * ***2024.7.16***, One paper is accepted by CIKM2024. Congrats for co-author Yurou Zhao!
-* ***2024.6.28***, Our Yulan's [Technical Report](https://arxiv.org/abs/2406.19853) "YuLan: An Open-source Large Language Model" has been released! I was served as the lead of data group of pretraining. Weights of [the foundation model](https://huggingface.co/yulan-team/YuLan-Base-12b) and [the chat model](https://huggingface.co/yulan-team/YuLan-Chat-3-12b) is also released.
-
 
 Honors and Awards
 ======
