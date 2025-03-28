@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yiding Sun (孙一丁, in Chinese). I am currently a 3rd-year master student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China. My supervisor is [Prof. Jiaxin Mao](https://sites.google.com/site/maojiaxin/). Previously, I earned my bachelor degree under supervise of [Prof. Ying Zhang](https://dbis.nankai.edu.cn/2023/0322/c12139a506904/page.htm) and [Prof. Gang Wang](https://cc.nankai.edu.cn/2021/0323/c13619a490377/page.htm), in College of Computer Science, Nankai University.
+My name is Yiding Sun (孙一丁, in Chinese). I am currently a 3rd-year master student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China. My supervisor is [Prof. Jiaxin Mao](https://sites.google.com/site/maojiaxin/). Previously, I earned my bachelor degree under supervise of [Prof. Ying Zhang](https://dbis.nankai.edu.cn/2023/0322/c12139a506904/page.htm) and [Prof. Gang Wang](https://cc.nankai.edu.cn/2021/0323/c13619a490377/page.htm), in College of Computer Science, Nankai University. Additionally, I served as PC member of SIGIR, ARR and so on.
 
 My research interests lie in the pretraining of Large Language Models (LLMs) and Explainable Recommendations. I will be working at Tencent from July 2025.
 
