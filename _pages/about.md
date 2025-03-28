@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yiding Sun (孙一丁, in Chinese). I am currently a 3rd-year master student (will graduate in 2025.6 in expectation) at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China. My supervisor is [Prof. Jiaxin Mao](https://sites.google.com/site/maojiaxin/). Previously, I earned my bachelor degree under supervise of [Prof. Ying Zhang](https://dbis.nankai.edu.cn/2023/0322/c12139a506904/page.htm) and [Prof. Gang Wang](https://cc.nankai.edu.cn/2021/0323/c13619a490377/page.htm), in College of Computer Science, Nankai University.
+My name is Yiding Sun (孙一丁, in Chinese). I am currently a 3rd-year master student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China. My supervisor is [Prof. Jiaxin Mao](https://sites.google.com/site/maojiaxin/). Previously, I earned my bachelor degree under supervise of [Prof. Ying Zhang](https://dbis.nankai.edu.cn/2023/0322/c12139a506904/page.htm) and [Prof. Gang Wang](https://cc.nankai.edu.cn/2021/0323/c13619a490377/page.htm), in College of Computer Science, Nankai University.
 
-My research interests lie in the pretraining of Large Language Models (LLMs) and Explainable Recommendations. I am searching for a full-time job of machine learning engineer, focusing on LLMs (pretraining, data, and fine-tuning) and recommendations, mainly based in Beijing.
+My research interests lie in the pretraining of Large Language Models (LLMs) and Explainable Recommendations. I will be working at Tencent from July 2025.
 
 Publications
 ======
@@ -52,20 +52,26 @@ Education
 * ***2022.9-present***, M.S., Gaoling School of Artificial Intelligence, Renmin University of China.
 * ***2018.9-2022.6***, B.E., College of Computer Science, Nankai University. 
 
+Experience
+======
+
+* ***2025.1-present***, AntGroup(Beijing), MLE Internship
+* ***2024.3-2024.9***, Baichuan Technology(Beijing), Foundation Model Group, MLE Internship 
+* ***2022.2-2023.12***, Meituan(Beijing), Takeaway Main Site Recommendation Group, MLE Internship
+
 News
 ======
 
-* ***2024.8.28***, Our [Technical Report](https://arxiv.org/abs/2408.15079) of BaichuanSEED has been released on ArXiv.
-* ***2024.7.16***, One paper is accepted by CIKM2024. Congrats for co-author Yurou Zhao!
+* ***2025.3.28***, I will be working at Tencent since July 2025.
+* ***2025.2.18***, I was served as PC member of SIGIR'25.
 
 Honors and Awards
 ======
-* 2023, Overall Excellence Scholarship (Second Prize), Renmin University of China. (Top 30%)
-* 2022, Overall Excellence Scholarship (Second Prize), Renmin University of China. (Top 30%)
+* 2022-2024, Overall Excellence Scholarship (Second Prize), Renmin University of China. (Top 30%, 3 times)
 * 2022, **Outstanding Graduate of Nankai University**. (Top 3%)
 * 2021, Gongneng Scholarship (First Prize), Nankai University. (Top 5%)
 * 2021, Ninety-five Core Scholarship, Nankai University. (10 Students in Nankai University)
 * 2021, Ministry of Education-Huawei Smart Base "Star of the Future" Award. (20 Students in Nankai University)
-* 2021, National Second Prize in the Compiled System Design Competition (Huawei Bison Cup).
+* 2021, National Second Prize in the Compiled System Design Competition, Huawei Bison Cup.
 * 2020, Academic Excellence Scholarship, Innovation Scholarship (Second Prize), Nankai University. (Top 10%)
 * 2019, Gongneng Scholarship (First Prize), Nankai University. (Top 5%)
