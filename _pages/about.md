@@ -15,6 +15,10 @@ My research interests lie in the pretraining of Large Language Models (LLMs) and
 Publications
 ======
 
+* FinS-Pilot: A Benchmark for Online Financial System. \
+Feng Wang, Yiding Sun, Wei Xue, Danqing Xu and Jiaxin Mao. \
+2nd Workshop on Financial Information Retrieval in the Era of Generative AI. **([FINIR](https://finir2025.github.io/)@SIGIR 2025)**.
+
 * YuLan-Chat: A Large Language Model Based on Multi-Stage Curriculum Learning. \
 Kun Zhou, Yutao Zhu, Zhipeng Chen, Kelong Mao, Wentong Chen, Yushuo Chen, **Yiding Sun**, Qian Cao, Lei Wang, Lei Zhang, Xincheng Pang, Shufang Xie, Xin Zhao\*, Zhicheng Dou\*, Yankai Lin, Jiaxin Mao, Ruihua Song, Xu Chen, Jun Xu, Di Hu, Rui Yan, Wenbing Huang, Zhewei Wei, Jirong Wen\*. \
 **Chinese Journal of Computers**. [[Paper](https://kns.cnki.net/kcms2/article/abstract?v=gpYlZH45TFnKWeB9Jc2TCXqboIvV8ZP8zlMA8ZBAGd04eJoBhOLmyMU892yLtWMk7HkPJjdIU5dPIji0eXElMN8cVsQ0ZMVnnxuFWlDdU8yPpafOxXCA6PEVyIbWdBhJ56WQk7KK_zzcyHiJu4rF3lqkoC5GCl8__DcI88IF_Ci3mi7Was7CIWJjXWu9rI3XrQ5QGRQsw0pRGmvFtGIOWg==)]
@@ -38,8 +42,7 @@ Yutao Zhu, Kun Zhou, Kelong Mao, Wentong Chen, **Yiding Sun**, Zhipeng Chen, Qia
 
 * Investigating Users' Preferences for Explanation Tags on Online Delivery Platform. \
 **Yiding Sun**, Yurou Zhao, Ruidong Han, Fei Jiang, Lu Guan, Xiang Li, Wei Lin and Jiaxin Mao. \
-1st Workshop on Measuring the Quality of Explanations 
-in Recommender Systems. **([QUARE](https://sites.google.com/view/quare-2022/accepted-papers)@SIGIR 2022)**. 
+1st Workshop on Measuring the Quality of Explanations in Recommender Systems. **([QUARE](https://sites.google.com/view/quare-2022/accepted-papers)@SIGIR 2022)**. 
 
 * Evaluating the Explanation Tags of Online Food Delivery Recommendation: A Position Paper. \
 Yurou Zhao, Ruidong Han, Fei Jiang, Lu Guan, Xiang Li, Wei Lin, **Yiding Sun** and Jiaxin Mao. \
