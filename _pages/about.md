@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yiding Sun (孙一丁, in Chinese). I am currently a 3rd-year master student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China. My supervisor is [Prof. Jiaxin Mao](https://sites.google.com/site/maojiaxin/). Previously, I earned my bachelor degree under supervise of [Prof. Ying Zhang](https://dbis.nankai.edu.cn/2023/0322/c12139a506904/page.htm) and [Prof. Gang Wang](https://cc.nankai.edu.cn/2021/0323/c13619a490377/page.htm), in College of Computer Science, Nankai University. Additionally, I served as PC member of SIGIR, ARR and so on.
+My name is Yiding Sun (孙一丁, in Chinese). I currently work at Tencent as a machine learning engnieer. Previously, I earned my master degree in [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China, in supervision of [Prof. Jiaxin Mao](https://sites.google.com/site/maojiaxin/) and bachelor degree at [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University. Additionally, I served as PC member of SIGIR, ARR and so on.
 
-My research interests lie in the pretraining of Large Language Models (LLMs) and Explainable Recommendations. I will be working at Tencent from July 2025.
+My research interests lie in the Large Language Models (LLMs) and Agents in Advertisement.
 
 Publications
 ======
 
 * FinS-Pilot: A Benchmark for Online Financial System. \
-Feng Wang, Yiding Sun, Wei Xue, Danqing Xu and Jiaxin Mao. \
+Feng Wang, **Yiding Sun**, Wei Xue, Danqing Xu and Jiaxin Mao. \
 2nd Workshop on Financial Information Retrieval in the Era of Generative AI. **([FINIR](https://finir2025.github.io/)@SIGIR 2025)**.
 
 * YuLan-Chat: A Large Language Model Based on Multi-Stage Curriculum Learning. \
@@ -46,19 +46,19 @@ Yutao Zhu, Kun Zhou, Kelong Mao, Wentong Chen, **Yiding Sun**, Zhipeng Chen, Qia
 
 * Evaluating the Explanation Tags of Online Food Delivery Recommendation: A Position Paper. \
 Yurou Zhao, Ruidong Han, Fei Jiang, Lu Guan, Xiang Li, Wei Lin, **Yiding Sun** and Jiaxin Mao. \
-1st Workshop on Measuring the Quality of Explanations 
-in Recommender Systems. **([QUARE](https://sites.google.com/view/quare-2022/accepted-papers)@SIGIR 2022)**. 
+1st Workshop on Measuring the Quality of Explanations in Recommender Systems. **([QUARE](https://sites.google.com/view/quare-2022/accepted-papers)@SIGIR 2022)**. 
 
 Education
 ======
 
-* ***2022.9-present***, M.S., Gaoling School of Artificial Intelligence, Renmin University of China.
+* ***2022.9-2025.6***, M.S., Gaoling School of Artificial Intelligence, Renmin University of China.
 * ***2018.9-2022.6***, B.E., College of Computer Science, Nankai University. 
 
 Experience
 ======
 
-* ***2025.1-present***, AntGroup(Beijing), MLE Internship
+* ***2025.6-present***, Tencent(Beijing), Advertisement Marketing Enterprise, MLE
+* ***2025.1-2025.6***, AntGroup(Beijing), MLE Internship
 * ***2024.3-2024.9***, Baichuan Technology(Beijing), Foundation Model Group, MLE Internship 
 * ***2022.2-2023.12***, Meituan(Beijing), Takeaway Main Site Recommendation Group, MLE Internship
 
