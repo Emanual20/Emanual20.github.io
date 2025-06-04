@@ -17,7 +17,7 @@ Publications
 
 * FinS-Pilot: A Benchmark for Online Financial System. \
 Feng Wang, **Yiding Sun**, Wei Xue, Danqing Xu and Jiaxin Mao. \
-2nd Workshop on Financial Information Retrieval in the Era of Generative AI. **([FINIR](https://finir2025.github.io/)@SIGIR 2025)**.
+2nd Workshop on Financial Information Retrieval in the Era of Generative AI. **([FINIR](https://finir2025.github.io/)@SIGIR 2025)**. [[Paper]](https://arxiv.org/abs/2506.02037)
 
 * YuLan-Chat: A Large Language Model Based on Multi-Stage Curriculum Learning. \
 Kun Zhou, Yutao Zhu, Zhipeng Chen, Kelong Mao, Wentong Chen, Yushuo Chen, **Yiding Sun**, Qian Cao, Lei Wang, Lei Zhang, Xincheng Pang, Shufang Xie, Xin Zhao\*, Zhicheng Dou\*, Yankai Lin, Jiaxin Mao, Ruihua Song, Xu Chen, Jun Xu, Di Hu, Rui Yan, Wenbing Huang, Zhewei Wei, Jirong Wen\*. \
