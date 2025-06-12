@@ -25,7 +25,7 @@ Kun Zhou, Yutao Zhu, Zhipeng Chen, Kelong Mao, Wentong Chen, Yushuo Chen, **Yidi
 
 * BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline. \
 Guosheng Dong\*, Da Pan, **Yiding Sun**, Shusen Zhang, Zheng Liang, Xin Wu, Yanjun Shen, Fan Yang, Haoze Sun, Tianpeng Li, Mingan Lin, Jianhua Xu, Yufan Zhang, Xiaonan Nie, Lei Su, Bingning Wang, Wentao Zhang, Jiaxin Mao, Zenan Zhou\*, Weipeng Chen. \
-**ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2408.15079)]
+**Technical Report on ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2408.15079)]
 
 * Aligning Explanations for Recommendation with Rating and Feature via Maximizing Mutual Information. \
 Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Lu Guan, Xiang Li, Wei Lin, Jiaxin Mao. \
@@ -37,7 +37,7 @@ The 47th International ACM SIGIR Conference on Research and Development in Infor
 
 * YuLan: An Open-source Large Language Model. \
 Yutao Zhu, Kun Zhou, Kelong Mao, Wentong Chen, **Yiding Sun**, Zhipeng Chen, Qian Cao, Yihan Wu, Yushuo Chen, Feng Wang, Lei Zhang, Junyi Li, Xiaolei Wang, Lei Wang, Beichen Zhang, Zican Dong, Xiaoxue Cheng, Yuhan Chen, Xinyu Tang, Yupeng Hou, Qiangqiang Ren, Xincheng Pang, Shufang Xie, Wayne Xin Zhao, Zhicheng Dou, Jiaxin Mao, Yankai Lin, Ruihua Song, Jun Xu, Xu Chen, Rui Yan, Zhewei Wei, Di Hu, Wenbing Huang, Ze-Feng Gao, Yueguo Chen, Weizheng Lu, Ji-Rong Wen. \
-**ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2406.19853)]
+**Technical Report on ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2406.19853)]
 
 
 * Investigating Users' Preferences for Explanation Tags on Online Delivery Platform. \
