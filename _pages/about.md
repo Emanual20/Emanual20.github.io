@@ -17,7 +17,7 @@ Publications
 
 * FinS-Pilot: A Benchmark for Online Financial System. \
 Feng Wang, **Yiding Sun**, Wei Xue, Danqing Xu and Jiaxin Mao. \
-2nd Workshop on Financial Information Retrieval in the Era of Generative AI. **([FINIR](https://finir2025.github.io/)@SIGIR 2025)**. [[Paper]](https://arxiv.org/abs/2506.02037)
+The 34th ACM International Conference on Information and Knowledge Management. **(CIKM 2025)** [[Paper]](https://arxiv.org/abs/2506.02037)
 
 * YuLan-Chat: A Large Language Model Based on Multi-Stage Curriculum Learning. \
 Kun Zhou, Yutao Zhu, Zhipeng Chen, Kelong Mao, Wentong Chen, Yushuo Chen, **Yiding Sun**, Qian Cao, Lei Wang, Lei Zhang, Xincheng Pang, Shufang Xie, Xin Zhao\*, Zhicheng Dou\*, Yankai Lin, Jiaxin Mao, Ruihua Song, Xu Chen, Jun Xu, Di Hu, Rui Yan, Wenbing Huang, Zhewei Wei, Jirong Wen\*. \
@@ -57,16 +57,15 @@ Education
 Experience
 ======
 
-* ***2025.6-present***, Tencent(Beijing), Advertisement Marketing Enterprise, MLE
-* ***2025.1-2025.6***, AntGroup(Beijing), MLE Internship
+* ***2025.1-present***, Tencent(Beijing), Advertisement Marketing Enterprise, MLE
 * ***2024.3-2024.9***, Baichuan Technology(Beijing), Foundation Model Group, MLE Internship 
 * ***2022.2-2023.12***, Meituan(Beijing), Takeaway Main Site Recommendation Group, MLE Internship
 
 News
 ======
 
-* ***2025.3.28***, I will be working at Tencent since July 2025.
-* ***2025.2.18***, I was served as PC member of SIGIR'25.
+* ***2025.8.5***, One paper is accepted by CIKM'25.
+* ***2025.2.18***, I served as PC member of SIGIR'25.
 
 Honors and Awards
 ======
