@@ -10,10 +10,14 @@ redirect_from:
 
 My name is Yiding Sun (孙一丁, in Chinese). I currently work at Tencent as a machine learning engnieer. Previously, I earned my master degree in [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China, in supervision of [Prof. Jiaxin Mao](https://sites.google.com/site/maojiaxin/) and bachelor degree at [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University. Additionally, I served as PC member of SIGIR, ARR and so on.
 
-My research interests lie in the Large Language Models (LLMs) and Agents in Advertisement.
+My research interests lie in Agents and LLMs in Advertisement (AI sales, AI customer service).
 
 Publications
 ======
+
+* On Usefulness, Fidelity, and Generalizability of Post-hoc Explanation for Food Recommendation. \
+Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Wei Lin and Jiaxin Mao \
+Recommender Systems for Sustainable Development. **([RS4SD](https://rs4sd-workshop.github.io/)@CIKM 2025)**
 
 * FinS-Pilot: A Benchmark for Online Financial System. \
 Feng Wang, **Yiding Sun**, Wei Xue, Danqing Xu and Jiaxin Mao. \
@@ -64,6 +68,7 @@ Experience
 News
 ======
 
+* ***2025.10.1***, One research paper is accepted by RS4SD'25, workshop co-located with CIKM'25.
 * ***2025.8.5***, One paper is accepted by CIKM'25.
 * ***2025.2.18***, I served as PC member of SIGIR'25.
 
