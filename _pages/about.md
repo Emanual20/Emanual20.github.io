@@ -15,6 +15,10 @@ My research interests lie in Agents and LLMs in Advertisement (AI sales, AI cust
 Publications
 ======
 
+* Beyond Persuasiveness: A User-Centric Evaluation Framework of Explanations for Food Recommendation. \
+Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Wei Lin and Jiaxin Mao \
+The 48th European Conference on Information Retrieval. **(ECIR 2026)**
+
 * On Usefulness, Fidelity, and Generalizability of Post-hoc Explanation for Food Recommendation. \
 Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Wei Lin and Jiaxin Mao \
 Recommender Systems for Sustainable Development. **([RS4SD](https://rs4sd-workshop.github.io/)@CIKM 2025)**
@@ -68,9 +72,9 @@ Experience
 News
 ======
 
-* ***2025.10.1***, One research paper is accepted by RS4SD'25, workshop co-located with CIKM'25.
-* ***2025.8.5***, One paper is accepted by CIKM'25.
-* ***2025.2.18***, I served as PC member of SIGIR'25.
+* ***25.12.17***, One paper is accepted by ECIR'26.
+* ***25.8.5***, One paper is accepted by CIKM'25.
+* ***25.2.18***, I served as PC member of SIGIR'25.
 
 Honors and Awards
 ======
