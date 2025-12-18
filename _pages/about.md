@@ -19,10 +19,6 @@ Publications
 Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Wei Lin and Jiaxin Mao \
 The 48th European Conference on Information Retrieval. **(ECIR 2026)**
 
-* On Usefulness, Fidelity, and Generalizability of Post-hoc Explanation for Food Recommendation. \
-Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Wei Lin and Jiaxin Mao \
-Recommender Systems for Sustainable Development. **([RS4SD](https://rs4sd-workshop.github.io/)@CIKM 2025)**
-
 * FinS-Pilot: A Benchmark for Online Financial System. \
 Feng Wang, **Yiding Sun**, Wei Xue, Danqing Xu and Jiaxin Mao. \
 The 34th ACM International Conference on Information and Knowledge Management. **(CIKM 2025)** [[Paper]](https://arxiv.org/abs/2506.02037)
