@@ -21,11 +21,11 @@ The 48th European Conference on Information Retrieval. **(ECIR 2026)**
 
 * FinS-Pilot: A Benchmark for Online Financial System. \
 Feng Wang, **Yiding Sun**, Wei Xue, Danqing Xu and Jiaxin Mao. \
-The 34th ACM International Conference on Information and Knowledge Management. **(CIKM 2025)** [[Paper]](https://arxiv.org/abs/2506.02037)
+The 34th ACM International Conference on Information and Knowledge Management. **(CIKM 2025)** [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761643)
 
 * YuLan-Chat: A Large Language Model Based on Multi-Stage Curriculum Learning. \
 Kun Zhou, Yutao Zhu, Zhipeng Chen, Kelong Mao, Wentong Chen, Yushuo Chen, **Yiding Sun**, Qian Cao, Lei Wang, Lei Zhang, Xincheng Pang, Shufang Xie, Xin Zhao\*, Zhicheng Dou\*, Yankai Lin, Jiaxin Mao, Ruihua Song, Xu Chen, Jun Xu, Di Hu, Rui Yan, Wenbing Huang, Zhewei Wei, Jirong Wen\*. \
-**Chinese Journal of Computers**. [[Paper](https://kns.cnki.net/kcms2/article/abstract?v=gpYlZH45TFnKWeB9Jc2TCXqboIvV8ZP8zlMA8ZBAGd04eJoBhOLmyMU892yLtWMk7HkPJjdIU5dPIji0eXElMN8cVsQ0ZMVnnxuFWlDdU8yPpafOxXCA6PEVyIbWdBhJ56WQk7KK_zzcyHiJu4rF3lqkoC5GCl8__DcI88IF_Ci3mi7Was7CIWJjXWu9rI3XrQ5QGRQsw0pRGmvFtGIOWg==)]
+**Chinese Journal of Computers**. [[Paper](http://cjc.ict.ac.cn/online/onlinepaper/zk-202518122506.pdf)]
 
 * BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline. \
 Guosheng Dong\*, Da Pan, **Yiding Sun**, Shusen Zhang, Zheng Liang, Xin Wu, Yanjun Shen, Fan Yang, Haoze Sun, Tianpeng Li, Mingan Lin, Jianhua Xu, Yufan Zhang, Xiaonan Nie, Lei Su, Bingning Wang, Wentao Zhang, Jiaxin Mao, Zenan Zhou\*, Weipeng Chen. \
