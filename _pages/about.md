@@ -15,8 +15,12 @@ My research interests lie in Agents and LLMs in Advertisement (AI sales, AI cust
 Publications
 ======
 
+* AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents \
+Lingxiang Hu\*, **Yiding Sun\***, Tianle Xia, Wenwei Li, Ming Xu, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. (\* Equal contribution) \
+**ArXiv Preprint**. [[Paper](https://www.arxiv.org/abs/2602.14257)]
+
 * Beyond Persuasiveness: A User-Centric Evaluation Framework of Explanations for Food Recommendation. \
-Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Wei Lin and Jiaxin Mao \
+Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Wei Lin and Jiaxin Mao. \
 The 48th European Conference on Information Retrieval. **(ECIR 2026)**
 
 * FinS-Pilot: A Benchmark for Online Financial System. \
@@ -61,16 +65,16 @@ Education
 Experience
 ======
 
-* ***2025.1-present***, Tencent(Beijing), Advertisement Marketing Enterprise, MLE
+* ***2025.1-present***, Tencent(Beijing), Advertisement Marketing Service Enterprise, MLE
 * ***2024.3-2024.9***, Baichuan Technology(Beijing), Foundation Model Group, MLE Internship 
 * ***2022.2-2023.12***, Meituan(Beijing), Takeaway Main Site Recommendation Group, MLE Internship
 
 News
 ======
 
-* ***25.12.17***, One paper is accepted by ECIR'26.
-* ***25.8.5***, One paper is accepted by CIKM'25.
-* ***25.2.18***, I served as PC member of SIGIR'25.
+* ***26.2***, I served as PC member of SIGIR'26.
+* ***25.12***, One paper is accepted by ECIR'26.
+* ***25.8***, One paper is accepted by CIKM'25.
 
 Honors and Awards
 ======
