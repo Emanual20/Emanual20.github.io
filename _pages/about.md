@@ -14,8 +14,15 @@ My research interests lie in Agents and LLMs in Advertisement (AI sales, AI cust
 
 Publications
 ======
+* Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training. \
+Tianle Xia, Ming Xu, Lingxiang Hu, **Yiding Sun**, Wenwei Li, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. \
+**ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2602.22576)]
 
-* AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents \
+* Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA. \
+Wenwei Li, Ming Xu, Tianle Xia, Lingxiang Hu, **Yiding Sun**, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. \
+**ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2602.22584)]
+
+* AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents. \
 Lingxiang Hu\*, **Yiding Sun\***, Tianle Xia, Wenwei Li, Ming Xu, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. (\* Equal contribution) \
 **ArXiv Preprint**. [[Paper](https://www.arxiv.org/abs/2602.14257)]
 
