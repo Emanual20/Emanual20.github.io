@@ -28,7 +28,7 @@ Lingxiang Hu\*, **Yiding Sun\***, Tianle Xia, Wenwei Li, Ming Xu, Liqun Liu, Pen
 
 * Beyond Persuasiveness: A User-Centric Evaluation Framework of Explanations for Food Recommendation. \
 Yurou Zhao, **Yiding Sun**, Ruidong Han, Fei Jiang, Wei Lin and Jiaxin Mao. \
-The 48th European Conference on Information Retrieval. **(ECIR 2026)**
+The 48th European Conference on Information Retrieval. **(ECIR 2026)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-21300-6_41)]
 
 * FinS-Pilot: A Benchmark for Online Financial System. \
 Feng Wang, **Yiding Sun**, Wei Xue, Danqing Xu and Jiaxin Mao. \
