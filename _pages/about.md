@@ -16,11 +16,11 @@ Publications
 ======
 * Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training. \
 Tianle Xia, Ming Xu, Lingxiang Hu, **Yiding Sun**, Wenwei Li, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. \
-**ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2602.22576)]
+The 64th Annual Meeting of the Association for Computational Linguistics. **(ACL 2026)**. [[Paper](https://arxiv.org/abs/2602.22576)]
 
 * Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA. \
 Wenwei Li, Ming Xu, Tianle Xia, Lingxiang Hu, **Yiding Sun**, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. \
-**ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2602.22584)]
+The 64th Annual Meeting of the Association for Computational Linguistics. **(ACL 2026, Oral)**. [[Paper](https://arxiv.org/abs/2602.22584)]
 
 * AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents. \
 Lingxiang Hu\*, **Yiding Sun\***, Tianle Xia, Wenwei Li, Ming Xu, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. (\* Equal contribution) \
@@ -79,6 +79,7 @@ Experience
 News
 ======
 
+* ***26.4***, Two papers are accepted by ACL'26, one of which is **Oral**!
 * ***26.3***, I served as PC member of CIKM'26.
 * ***26.2***, I served as PC member of SIGIR'26.
 * ***25.12***, One paper is accepted by ECIR'26.
