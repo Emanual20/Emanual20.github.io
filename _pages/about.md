@@ -14,6 +14,10 @@ My research interests lie in Agents and LLMs in Advertisement (AI sales, AI cust
 
 Publications
 ======
+* GraSP: Graph-Structured Skill Compositions for LLM Agents. \
+Tianle Xia, Lingxiang Hu, **Yiding Sun**, Ming Xu, Lan Xu†, Siying Wang, Wei Xu, Jie Jiang. \
+**ArXiv Preprint**.
+
 * Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training. \
 Tianle Xia, Ming Xu, Lingxiang Hu, **Yiding Sun**, Wenwei Li, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. \
 The 64th Annual Meeting of the Association for Computational Linguistics. **(ACL 2026)**. [[Paper](https://arxiv.org/abs/2602.22576)]
