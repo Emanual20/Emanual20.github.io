@@ -23,7 +23,7 @@ Tianle Xia, Ming Xu, Lingxiang Hu, **Yiding Sun**, Wenwei Li, Linfang Shang, Liq
 The 64th Annual Meeting of the Association for Computational Linguistics. **(ACL 2026)**. [[Paper](https://arxiv.org/abs/2602.22576)]
 
 * Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA. \
-Wenwei Li, Ming Xu, Tianle Xia, Lingxiang Hu, **Yiding Sun**, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. \
+Wenwei Li\*, Ming Xu\*, Tianle Xia\*, Lingxiang Hu\*, **Yiding Sun\***, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. (\* Equal contribution) \
 The 64th Annual Meeting of the Association for Computational Linguistics. **(ACL 2026, Oral)**. [[Paper](https://arxiv.org/abs/2602.22584)]
 
 * AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents. \
