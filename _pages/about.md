@@ -16,7 +16,7 @@ Publications
 ======
 * GraSP: Graph-Structured Skill Compositions for LLM Agents. \
 Tianle Xia, Lingxiang Hu, **Yiding Sun**, Ming Xu, Lan Xu†, Siying Wang, Wei Xu, Jie Jiang. \
-**ArXiv Preprint**.
+**ArXiv Preprint**. [[Paper](https://arxiv.org/abs/2604.17870)]
 
 * Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training. \
 Tianle Xia, Ming Xu, Lingxiang Hu, **Yiding Sun**, Wenwei Li, Linfang Shang, Liqun Liu, Peng Shu, Huan Yu, Jie Jiang. \
