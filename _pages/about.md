@@ -91,8 +91,8 @@ News
 
 Honors and Awards
 ======
+* 2022-2024, Overall Excellence Scholarship (Second Prize), Renmin University of China. (Top 30%, 3 times)
 * 2022, **Outstanding Graduate of Nankai University**. (Top 3%)
 * 2021, Ministry of Education-Huawei Smart Base "Star of the Future" Award. (20 Students in Nankai University)
 * 2021, National Second Prize in the Compiled System Design Competition, Huawei Bison Cup.
-* 2022-2024, Overall Excellence Scholarship (Second Prize), Renmin University of China. (Top 30%, 3 times)
 * 2018-2022, Scholarships of Nankai University, including Gongneng Scholarship (First Prize, Top 5%, 2 times), Ninety-five Core Scholarship (10 Students in Nankai University), Academic Excellence Scholarship and Innovation Scholarship (Second Prize, Top 10%).
