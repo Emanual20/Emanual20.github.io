@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yiding Sun (孙一丁, in Chinese). I currently work at Tencent as a machine learning engnieer. Previously, I earned my master degree in [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China, in supervision of [Prof. Jiaxin Mao](https://sites.google.com/site/maojiaxin/) and bachelor degree at [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University. Additionally, I served as PC member of SIGIR, CIKM, ARR and so on.
+My name is Yiding Sun (孙一丁, in Chinese). I currently work at Tencent as a machine learning engnieer. Previously, I earned my master degree in [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China, in supervision of [Prof. Jiaxin Mao](https://sites.google.com/site/maojiaxin/) and bachelor degree at [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University. Additionally, I served as PC member of SIGIR, CIKM, ARR(ACL, EMNLP) and so on.
 
 My research interests lie in Agents and LLMs in Advertisement (AI sales, AI customer service).
 
@@ -83,11 +83,11 @@ Experience
 News
 ======
 
+* ***26.7***, I will present our paper at ACL 2026 in person this July. Welcome to come and chat!
+* ***26.6***, I served as PC member of EMNLP'26.
 * ***26.4***, Two papers are accepted by ACL'26, one of which is **Oral**!
 * ***26.3***, I served as PC member of CIKM'26.
 * ***26.2***, I served as PC member of SIGIR'26.
-* ***25.12***, One paper is accepted by ECIR'26.
-* ***25.8***, One paper is accepted by CIKM'25.
 
 Honors and Awards
 ======
